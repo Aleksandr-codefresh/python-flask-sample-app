@@ -1,0 +1,10 @@
+
+dependencies:
+- name: mongodb
+  version: 0.4.12
+  repository: file://pv-charts/mongodb
+  tags:
+  - infra
+- name: redis
+  version: 0.8.0
+  repository: file://pv-charts/redis
